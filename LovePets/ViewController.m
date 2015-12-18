@@ -70,7 +70,6 @@ __REF = nil;\
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(1 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         [self goToViewController];
     });
-    
     //分支测试123
 }
 
@@ -80,6 +79,7 @@ __REF = nil;\
         _serialQueue = dispatch_queue_create("serialQueue", DISPATCH_QUEUE_SERIAL);//创建串行队列
     }
     return _serialQueue;
+    //在自己的分支上修改东西
 }
 
 - (void)prepareViewController
