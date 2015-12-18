@@ -9,5 +9,7 @@
 #import "fenzhiceshi.h"
 
 @implementation fenzhiceshi
-
+-(void)dealloc {
+    //我的分支测试
+}
 @end

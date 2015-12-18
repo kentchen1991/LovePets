@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C88864C1C23B24C004D35AB /* fenzhiceshi.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C88864B1C23B24C004D35AB /* fenzhiceshi.m */; };
 		5C8C1CD51BDF4C49004B4765 /* TestTwoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C8C1CD41BDF4C49004B4765 /* TestTwoManager.m */; };
 		5C8E54F01BE3147500AE2F02 /* NavController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C8E54EF1BE3147500AE2F02 /* NavController.m */; };
 		5C8E54F41BE3157E00AE2F02 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C8E54F21BE3157E00AE2F02 /* TestViewController.m */; };
@@ -62,6 +63,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5C88864A1C23B24C004D35AB /* fenzhiceshi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fenzhiceshi.h; sourceTree = "<group>"; };
+		5C88864B1C23B24C004D35AB /* fenzhiceshi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fenzhiceshi.m; sourceTree = "<group>"; };
 		5C8C1CD31BDF4C49004B4765 /* TestTwoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTwoManager.h; sourceTree = "<group>"; };
 		5C8C1CD41BDF4C49004B4765 /* TestTwoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTwoManager.m; sourceTree = "<group>"; };
 		5C8E54EE1BE3147500AE2F02 /* NavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavController.h; sourceTree = "<group>"; };
@@ -255,6 +258,8 @@
 				5CA24D551C0FE615004083C2 /* SQLiteManager.m */,
 				5CA24D571C0FE61D004083C2 /* SQLiteMigrater.h */,
 				5CA24D581C0FE61D004083C2 /* SQLiteMigrater.m */,
+				5C88864A1C23B24C004D35AB /* fenzhiceshi.h */,
+				5C88864B1C23B24C004D35AB /* fenzhiceshi.m */,
 			);
 			name = sql;
 			sourceTree = "<group>";
@@ -583,6 +588,7 @@
 				5CA837241BDE1B7B0089C050 /* AIFUDIDGenerator.m in Sources */,
 				5CA8372C1BDE1B7B0089C050 /* AIFApiProxy.m in Sources */,
 				5CA8372A1BDE1B7B0089C050 /* NSURLRequest+AIFNetworkingMethods.m in Sources */,
+				5C88864C1C23B24C004D35AB /* fenzhiceshi.m in Sources */,
 				5C9709E61BA8FD9600BCB4F1 /* AppDelegate.m in Sources */,
 				5CA24D5C1C0FE724004083C2 /* MyMigrater.m in Sources */,
 				5CA837221BDE1B7B0089C050 /* AIFRequestGenerator.m in Sources */,
