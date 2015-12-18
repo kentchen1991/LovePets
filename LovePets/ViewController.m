@@ -71,7 +71,6 @@ __REF = nil;\
         [self goToViewController];
     });
     
-    
 }
 
 - (dispatch_queue_t)serialQueue
@@ -80,6 +79,7 @@ __REF = nil;\
         _serialQueue = dispatch_queue_create("serialQueue", DISPATCH_QUEUE_SERIAL);//创建串行队列
     }
     return _serialQueue;
+    //在自己的分支上修改东西
 }
 
 - (void)prepareViewController
