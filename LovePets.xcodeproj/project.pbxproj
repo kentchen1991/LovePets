@@ -44,7 +44,6 @@
 		5CA837391BDE1B7B0089C050 /* AIFServiceGoogleMapDirections.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CA837201BDE1B7B0089C050 /* AIFServiceGoogleMapDirections.m */; };
 		5CA8373D1BDE1CE20089C050 /* TestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CA8373C1BDE1CE20089C050 /* TestManager.m */; };
 		5CA837411BDE30370089C050 /* AIFServiceLovePets.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CA837401BDE30370089C050 /* AIFServiceLovePets.m */; };
-		5CAAEF911BDF754C00F826AE /* 骚逼的海哥.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CAAEF901BDF754C00F826AE /* 骚逼的海哥.png */; };
 		5CAD04801BE0656600A192A4 /* TestType.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CAD047F1BE0656600A192A4 /* TestType.m */; };
 		5CC237AC1C15702C00210B65 /* home_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CC237AB1C15702C00210B65 /* home_logo.png */; };
 		5CC92E0C1BBB8285005C3841 /* PetsLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5CC92E0B1BBB8285005C3841 /* PetsLogger.m */; };
@@ -137,7 +136,6 @@
 		5CA8373C1BDE1CE20089C050 /* TestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestManager.m; sourceTree = "<group>"; };
 		5CA8373F1BDE30370089C050 /* AIFServiceLovePets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIFServiceLovePets.h; sourceTree = "<group>"; };
 		5CA837401BDE30370089C050 /* AIFServiceLovePets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIFServiceLovePets.m; sourceTree = "<group>"; };
-		5CAAEF901BDF754C00F826AE /* 骚逼的海哥.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骚逼的海哥.png"; sourceTree = "<group>"; };
 		5CAD047E1BE0656600A192A4 /* TestType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestType.h; sourceTree = "<group>"; };
 		5CAD047F1BE0656600A192A4 /* TestType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestType.m; sourceTree = "<group>"; };
 		5CC237AB1C15702C00210B65 /* home_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home_logo.png; sourceTree = "<group>"; };
@@ -400,7 +398,6 @@
 		5CAAEF8F1BDF750800F826AE /* resource */ = {
 			isa = PBXGroup;
 			children = (
-				5CAAEF901BDF754C00F826AE /* 骚逼的海哥.png */,
 			);
 			name = resource;
 			path = ../../resource;
@@ -518,7 +515,6 @@
 			files = (
 				5C9709EC1BA8FD9600BCB4F1 /* Main.storyboard in Resources */,
 				5C9709F11BA8FD9600BCB4F1 /* LaunchScreen.xib in Resources */,
-				5CAAEF911BDF754C00F826AE /* 骚逼的海哥.png in Resources */,
 				5C9709EE1BA8FD9600BCB4F1 /* Images.xcassets in Resources */,
 				5CC237AC1C15702C00210B65 /* home_logo.png in Resources */,
 			);
